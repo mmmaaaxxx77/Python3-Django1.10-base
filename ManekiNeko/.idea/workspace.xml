@@ -21,8 +21,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ManekiNeko/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="118" column="13" lean-forward="true" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
+            <state relative-caret-position="266">
+              <caret line="82" column="43" lean-forward="true" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -36,26 +36,6 @@
               <folding>
                 <element signature="e#0#57#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_default.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/dashboard/templates/_default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5865">
-              <caret line="30" column="48" lean-forward="false" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_script.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/dashboard/templates/_script.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -87,13 +67,13 @@
         <option value="$PROJECT_DIR$/apps/dashboard/templates/_css.css" />
         <option value="$PROJECT_DIR$/apps/dashboard/templates/_script.html" />
         <option value="$PROJECT_DIR$/apps/dashboard/templates/_css.html" />
-        <option value="$PROJECT_DIR$/ManekiNeko/settings.py" />
         <option value="$PROJECT_DIR$/ManekiNeko/core/singleton/Singleton.py" />
         <option value="$PROJECT_DIR$/apps/dashboard/templates/_default.html" />
         <option value="$PROJECT_DIR$/ManekiNeko/core/singleton/singleton.py" />
         <option value="$PROJECT_DIR$/ManekiNeko/urls.py" />
         <option value="$PROJECT_DIR$/apps/dashboard/views/IndexView.py" />
         <option value="$PROJECT_DIR$/apps/dashboard/urls.py" />
+        <option value="$PROJECT_DIR$/ManekiNeko/settings.py" />
       </list>
     </option>
   </component>
@@ -1053,12 +1033,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/dashboard/views/IndexView.py">
+    <entry file="file://$PROJECT_DIR$/ManekiNeko/core/secutity/AuthDecorators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="304">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="e#0#57#0" expanded="true" />
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1079,20 +1059,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ManekiNeko/core/secutity/AuthDecorators.py">
+    <entry file="file://$PROJECT_DIR$/apps/dashboard/views/IndexView.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="247">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="10" />
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#0#57#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ManekiNeko/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="118" column="13" lean-forward="true" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
+        <state relative-caret-position="266">
+          <caret line="82" column="43" lean-forward="true" selection-start-line="82" selection-start-column="8" selection-end-line="82" selection-end-column="43" />
           <folding />
         </state>
       </provider>

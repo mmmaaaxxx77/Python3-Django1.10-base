@@ -80,10 +80,23 @@ WSGI_APPLICATION = 'ManekiNeko.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'mysql.connector.django',
+        'NAME': 'maneki_neko',
+        'USER': 'maneki_neko',
+        'PASSWORD': '1qaz@WSX',
+        'HOST': '127.0.0.1',
+        'PORT': '3306',
     }
 }
+"""
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+
+    }
+}
+"""
 
 
 # Password validation
@@ -116,7 +129,7 @@ USE_I18N = True
 
 USE_L10N = True
 
-USE_TZ = True
+USE_TZ = False
 
 
 # Static files (CSS, JavaScript, Images)
